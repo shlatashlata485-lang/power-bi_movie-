@@ -38,8 +38,5 @@ Used advanced DAX formulas to calculate key metrics:
 
 ---
 
-## 🚀 How to view the project
-1. Download the `.pbix` file from this repository.
-2. Open it using **Power BI Desktop**.
-3. You can also find the raw data in the `movies.csv` file.
-٤.
+
+###Mohamed shlata, Data Analyst
