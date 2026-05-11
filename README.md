@@ -6,11 +6,10 @@ This Power BI dashboard provides a deep dive into movie industry trends, analyzi
 ---
 
 ## 📊 Dashboard Preview
-<p align="center">
-  <img src="movie_dashboard.png" width="850">
-</p>
 
----
+---<p align="center">
+  <img src="اسم_الصورة_الجديد.png" width="850">
+</p>
 
 ## 💡 Key Business Insights
 Based on the data analysis, here are the main findings:
